@@ -1,8 +1,7 @@
-Creating a README file for a Laravel project involves documenting essential information to help users understand and use the project effectively. Below is a template for a README file tailored to your order processing system project in Laravel.
 
 ### Project Name
 
-Brief description of your project.
+This project implements a Boiler Plate for RESTful API for order management and fulfillment using Laravel. It provides endpoints to create orders, manage order status, and fulfill orders through a pipeline-based process.
 
 ### Features
 
